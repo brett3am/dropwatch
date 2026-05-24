@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "dropId": "2026-rlc-1994-acura-nsx",
+  "dropCode": "nsx94",
+  "dropTitle": "2026 RLC 1994 Acura NSX",
+  "carName": "1994 Acura NSX",
+  "dropStart": "2026-05-25T09:00:00-07:00",
+  "dropEnd": "2026-05-25T10:00:00-07:00",
+  "buyUrl": "https://creations.mattel.com/",
+  "description": "RLC members-only collector release.",
+
+  "imageVersion": 1,
+  "imageChangeMs": 5000,
+
+  "assetPath": "2026-rlc-1994-acura-nsx/",
+
+  "background": "nsx94-background-320x240.jpg",
+
+  "windowImages": [
+    "nsx94-window-01.jpg",
+    "nsx94-window-02.jpg",
+    "nsx94-window-03.jpg",
+    "nsx94-window-04.jpg",
+    "nsx94-window-05.jpg",
+    "nsx94-window-06.jpg",
+    "nsx94-window-07.jpg"
+  ],
+
+  "carWindow": {
+    "x": 47,
+    "y": 80,
+    "w": 226,
+    "h": 110
+  },
+
+  "countdownTest": {
+    "days": 3,
+    "hours": 15,
+    "minutes": 20,
+    "seconds": 7
+  }
+}
