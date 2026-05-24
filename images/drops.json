@@ -1,1 +1,13 @@
-
+{
+  "version": 1,
+  "activeDropId": "2026-rlc-1994-acura-nsx",
+  "drops": [
+    {
+      "dropId": "2026-rlc-1994-acura-nsx",
+      "dropCode": "nsx94",
+      "title": "2026 RLC 1994 Acura NSX",
+      "json": "2026-rlc-1994-acura-nsx/drop.json",
+      "active": true
+    }
+  ]
+}
