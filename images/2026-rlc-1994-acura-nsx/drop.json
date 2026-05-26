@@ -2,21 +2,20 @@
   "version": 1,
   "dropId": "2026-rlc-1994-acura-nsx",
   "dropCode": "nsx94",
-  "dropTitle": "2026 RLC 1994 Acura NSX",
+  "dropTitle": "Hot Wheels RLC Exclusive 1994 NSX",
   "carName": "1994 Acura NSX",
-  "dropStart": "2026-05-25T09:00:00-07:00",
-  "dropEnd": "2026-05-25T10:00:00-07:00",
-  "dropEpochUtc": 1779724800,
-  "buyUrl": "https://creations.mattel.com/",
+  "dropStart": "2026-05-26T09:00:00-07:00",
+  "dropEnd": "2026-05-26T10:00:00-07:00",
+  "buyUrl": "https://creations.mattel.com/products/rlc-exclusive-1994-acura-nsx-jjy73",
   "description": "RLC members-only collector release.",
-
+  "status": "coming_soon",
+  "soldOut": false,
+  "price": "38.00",
+  "sku": "JJY73",
   "imageVersion": 1,
   "imageChangeMs": 5000,
-
   "assetPath": "2026-rlc-1994-acura-nsx/",
-
   "background": "nsx94-background-320x240.jpg",
-
   "windowImages": [
     "nsx94-window-01.jpg",
     "nsx94-window-02.jpg",
@@ -26,7 +25,6 @@
     "nsx94-window-06.jpg",
     "nsx94-window-07.jpg"
   ],
-
   "carWindow": {
     "x": 47,
     "y": 80,
