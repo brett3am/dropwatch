@@ -6,6 +6,8 @@
   "carName": "1994 Acura NSX",
   "dropStart": "2026-05-26T09:00:00-07:00",
   "dropEnd": "2026-05-26T10:00:00-07:00",
+  "dropEpochUtc": 1779811200,
+  "dropEndEpochUtc": 1779814800,
   "buyUrl": "https://creations.mattel.com/products/rlc-exclusive-1994-acura-nsx-jjy73",
   "description": "RLC members-only collector release.",
   "status": "coming_soon",
